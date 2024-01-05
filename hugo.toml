@@ -1,0 +1,19 @@
+baseURL = 'https://10.13.0.234:1313/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'coming-soon'
+staticDir = ['static']
+
+[params]
+    title = "Suman's Portfolio" 
+    description = "my brilliance will arrive shortly."
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "Jan 30, 2024" 
+    background = "" 
+
+
+socialIcons = [
+{name = "email", url = "sumanthapa3271@gmail.com"},         
+{name = "github", url = "https://github.com/sumanthapa11"},    
+{name = "instagram", url = "https://instagram.com/"}, ]
